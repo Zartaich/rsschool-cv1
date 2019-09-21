@@ -16,6 +16,7 @@ I recently started to get involved in web programming. I attend various web deve
 - JavaScript/jQuery
 - Git
 - React
+- Redux
 
 ### Code examples
 
