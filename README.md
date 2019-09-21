@@ -1,1 +1,1 @@
-#https://zartaich.github.io/rsschool-cv/cv
+# https://zartaich.github.io/rsschool-cv/cv
